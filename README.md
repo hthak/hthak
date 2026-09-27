@@ -42,4 +42,5 @@ Full-stack auction application built with React and AWS using API Gateway, Lambd
 ## Connect With Me
 
 - LinkedIn: linkedin.com/in/himanshu-tthakur
+- Email: himanshu_thakur@brown.edu
 
