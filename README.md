@@ -4,7 +4,9 @@
 
 I'm a Computer Science master's student at Brown University focused on machine learning, artificial intelligence, and healthcare applications.
 
-My work includes medical machine learning, computer vision, deep learning, cloud systems, and full-stack software development. 
+My work includes medical machine learning, computer vision, deep learning, cloud systems, and full-stack software development.
+
+I'm currently seeking machine learning, AI, and software engineering internship role opportunities.
 
 ## Featured Projects
 
